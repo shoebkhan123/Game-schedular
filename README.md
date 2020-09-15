@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Navigate inside the project directory.
 3. Run the command npm install to intall project dependencies.
 4. After installing the depencies run the command ng serve to run the project.
-5. Open the your faverite browser of your chioce and type the url http://localhost:4200 to see the project.
+5. Open faverite browser of your chioce and type the url http://localhost:4200 to see the project.
 
 ## Prerequisite for this project:
 git, node, angular-cli
